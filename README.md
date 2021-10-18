@@ -1,4 +1,10 @@
 # ConnectFourGame
-Console game for connect four, can be altered to include other types of rendering
+A console run classic connect-four game for two players, with the ability to accommodate for other forms of rendering.
+Used OOP, Stencil, C#, and Visual Studio to create a minigame for two players.
 
-Run using the console, the program can be run using the Program file
+Instructions for installation
+
+    Git clone and download project
+    Cd into the ConnectFourGame folder containing the Program.cs
+    Run the Program.cs file
+    If the above commands have started the project, you should see the beginnings of the game
